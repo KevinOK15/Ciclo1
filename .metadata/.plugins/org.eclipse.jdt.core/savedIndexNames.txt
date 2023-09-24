@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\admin\Downloads\Kevin_Obando_Ciclo1\Kevin_Obando_Ciclo1\Introducción a la Algoritmia\IA_Semana_05_Lab\.metadata\.plugins\org.eclipse.jdt.core
+791594861.index
+4149227086.index
+3710670391.index
+22699913.index
